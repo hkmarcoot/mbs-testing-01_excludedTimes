@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: #234c63;
+}
+.container {
+  padding: 40px;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+.react-datepicker-wrapper {
+  margin-bottom: 30px;
+}
